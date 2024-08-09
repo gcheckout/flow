@@ -1,7 +1,9 @@
 .new-user-journey {
   position: relative;
-  width: 430px;
-  height: 1024px;
+  /*width: 430px;
+  height: 1024px;*/
+  width: 100%;
+  height: 100%;
   background-color: var(--backgroundprimary);
   margin:0 auto;
 }
@@ -9,12 +11,13 @@
 .new-user-journey .content {
   display: flex;
   flex-direction: column;
-  width: 390px;
   align-items: flex-start;
   gap: 24px;
+  margin:20px;
+  /*width: 390px;
   position: absolute;
   top: 20px;
-  left: 20px;
+  left: 20px;*/
 }
 
 .new-user-journey .APM-block {
