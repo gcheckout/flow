@@ -49,3 +49,13 @@
   --body-xs-medium-line-height: 24px;
   --body-xs-medium-font-style: normal;
 }
+
+
+@font-face {
+    font-family: 'Checkout Apercu SemiMono';
+    src: url('CheckoutApercuSemiMono-Regular.woff2') format('woff2'),
+        url('CheckoutApercuSemiMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
