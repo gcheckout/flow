@@ -481,7 +481,7 @@
 .new-user-journey .by-saving-your {
   position: relative;
   align-self: stretch;
-  font-family: "SF Pro-Regular", Helvetica;
+  font-family: var(--input-label-font-family);
   font-weight: 400;
   color: var(--secondary);
   font-size: 11px;
@@ -490,7 +490,7 @@
 }
 
 .new-user-journey .span {
-  font-family: "SF Pro-Regular", Helvetica;
+  font-family: var(--input-label-font-family);
   font-weight: 400;
   color: #717171;
   font-size: 11px;
@@ -521,7 +521,7 @@
   position: relative;
   width: fit-content;
   margin-top: -1px;
-  font-family: "SF Pro-Regular", Helvetica;
+  font-family: var(--input-label-font-family);
   font-weight: 400;
   color: var(--secondary);
   font-size: 13px;
@@ -666,7 +666,7 @@
   position: relative;
   width: fit-content;
   margin-top: -1px;
-  font-family: "SF Pro-Regular", Helvetica;
+  font-family: var(--input-label-font-family);
   font-weight: 400;
   color: #202124;
   font-size: 12.9px;
