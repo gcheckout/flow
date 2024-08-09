@@ -230,6 +230,7 @@
   white-space: nowrap;
   font-style: var(--input-string-font-style);
   text-decoration:none !important;
+  background:none; border:none;
 }
 
 .new-user-journey .inputs-2 {
