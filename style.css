@@ -230,7 +230,7 @@
   white-space: nowrap;
   font-style: var(--input-string-font-style);
   text-decoration:none !important;
-  background:none; border:none;
+  background:none !important; border:none !important;
 }
 
 .new-user-journey .inputs-2 {
@@ -739,4 +739,8 @@
   height: 11px;
   top: 17px;
   left: 33px;
+}
+a[href^="x-apple-data-detectors"] {
+    color: inherit !important;
+    text-decoration: inherit !important;
 }
