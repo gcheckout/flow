@@ -229,6 +229,7 @@
   line-height: var(--input-string-line-height);
   white-space: nowrap;
   font-style: var(--input-string-font-style);
+  text-decoration:none !important;
 }
 
 .new-user-journey .inputs-2 {
