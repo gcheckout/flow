@@ -521,7 +521,7 @@
   position: relative;
   width: fit-content;
   margin-top: -1px;
-  font-family: var(--input-label-font-family);
+  font-family: Checkout Apercu SemiMono, sans-serif;
   font-weight: 400;
   color: var(--secondary);
   font-size: 13px;
